@@ -110,7 +110,7 @@ En el resto de los tutoriales, nos centraremos principalmente en la fase de desa
 
 La estabilización es el proceso de solucionar los errores de la aplicación. No solo desde un punto de vista funcional (por ejemplo: "Se bloquea al hacer clic en este botón"), sino también de facilidad de uso y rendimiento. Es mejor empezar la estabilización muy pronto en el proceso de desarrollo para que se puedan realizar correcciones antes de que sean costosas. Normalmente, las aplicaciones pasan por las fases *Prototipo*, *Alfa*, *Beta* y *Versión candidata para lanzamiento*. Hay personas que las definen de forma diferente, pero, generalmente, siguen el modelo siguiente:
 
-1.   **Prototipo**: la aplicación aún está en fase de prueba de concepto y solo funcionan la funcionalidad principal o determinadas partes de la aplicación. Hay errores principales.
+1.   **Prototipo**: La aplicación aún se encuentra en fase de prueba de concepto y solo funcionan las funciones principales o determinadas partes de la aplicación. Los principales errores están presentes.
 1.   **Alfa**: la funcionalidad principal tiene normalmente el código completado (compilado, pero no probado por completo). Aún hay errores principales, puede que no haya funcionalidades aisladas.
 1.   **Beta**: la mayoría de la funcionalidad está completa y ha pasado al menos una corrección de errores y una prueba ligeras. Puede que aún haya problemas conocidos principales.
 1.   **Versión candidata para lanzamiento**: toda la funcionalidad está completa y probada. Salvo errores nuevos, la aplicación es una versión candidata para lanzamiento.
